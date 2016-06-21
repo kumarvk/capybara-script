@@ -8,9 +8,9 @@
 * Create mini library that helps you crawling similar sites
 
 
-### For scrapping and get out put on console follow below steps:
+### For scrapping and get output on console follow below steps:
 
-* Open command prompt and go to scrapper directory.
+* Open command prompt and go to directory.
 * Set proper ruby in rvm ( I have used ruby 2.2.2 but should work in other also)
 * You should have 'capybara' and 'poltergeist' gem installed.
 * Type 'ruby stuerzer_crawler.rb' in console.
